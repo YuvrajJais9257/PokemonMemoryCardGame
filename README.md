@@ -64,6 +64,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Demo
 
-Visit the live demo [here](#). See the game in action and try it out for yourself!
+Visit the live demo [here](https://main--whosthatpokemon-yuvrajjais9257.netlify.app/). See the game in action and try it out for yourself!
 
-![Gameplay gif](#) <!-- Replace '#' with the link to your gif or video -->
+![Gameplay gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjViOTBzMno2ZzFwcGZ4cGwxZnRxY2wya2w2OHJ6eHJnZzh1Z3l1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mWUeBpAE5YxKnOrbBv/giphy.gif) <!-- Replace '#' with the link to your gif or video -->
