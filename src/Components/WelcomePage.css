@@ -1,0 +1,31 @@
+#welcome-image{
+    width: 400px;
+    height: 400px;
+    border-radius: 15px;
+}
+html, body{
+    background-color: #000;
+}
+#welcome-page{
+    margin: 10%;
+    display: flex;
+    justify-content: center;
+}
+#enter{
+    transform: translateX(180px);
+    margin-top: 15px;
+}
+#play-icon{
+    color: #ff0000;
+    margin-right: 12px;
+}
+#play-button{
+    text-decoration: none; 
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+}
+#welcome-container{
+    display: flex;
+    flex-direction: column
+}

@@ -1,0 +1,20 @@
+#url-input-container{
+    margin-top: 15px;
+    border-radius: 5px;
+}
+#chart-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#fetch-data-button{
+    width: 100px;
+    border-radius: 5px;
+    margin-top: 12px;
+    color: #fff;
+    background-color: #000;
+}
+#line{
+    background-color: #000;
+    padding: 1px;
+}

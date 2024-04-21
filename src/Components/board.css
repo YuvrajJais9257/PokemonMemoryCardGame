@@ -1,0 +1,53 @@
+/* Grid container */
+
+#grid-container{
+    display: flex;
+    justify-content: center;
+    margin: 3%;
+    margin-top: 77px;
+    background-image: url('https://i.pinimg.com/736x/28/83/eb/2883eb231bcaadeb34c8df67e8e44879.jpg');
+    background-repeat: no-repeat;
+    background-size: 600px 600px;
+    background-position: 50%;
+    align-items: center;
+    flex-direction: column;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(6, 0fr);
+    grid-template-rows: repeat(6, 0fr);
+    gap: 0px; /* Adjust gap size as needed */
+}
+
+/* Grid rows */
+.grid-row {
+    display: contents; /* This will allow the child elements to act as grid items */
+}
+
+/* Grid cells */
+.grid-cell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #fff;
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+}
+#score-board{
+    position: absolute;
+    color: #fff;
+    top: 0;
+    font-size: 18px;
+    font-weight: 700;
+}
+#reset{
+    transform: translateX(50%);
+}
+#reset-btn{
+    text-decoration: none;
+    color: #fff;
+    background-color: #ff0000;
+    border-radius: 5px;
+    width: fit-content;
+}
